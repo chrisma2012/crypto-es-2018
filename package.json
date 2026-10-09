@@ -1,7 +1,7 @@
 {
   "name": "crypto-es-2018",
   "version": "3.1.2",
-  "description": "A cryptography algorithms library",
+  "description": "A cryptography algorithms library fork from crypto-es",
   "keywords": [
     "security",
     "crypto",
@@ -64,14 +64,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/entronad/crypto-es.git"
+    "url": "git+https://github.com/chrisma2012/crypto-es-2018.git"
   },
   "author": "LIN Chen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/entronad/crypto-es/issues"
+    "url": "https://github.com/chrisma2012/crypto-es-2018/issues"
   },
-  "homepage": "https://github.com/entronad/crypto-es#readme",
+  "homepage": "https://github.com/chrisma2012/crypto-es-2018#readme",
   "devDependencies": {
     "@vitest/ui": "^3.2.4",
     "publint": "^0.3.12",
