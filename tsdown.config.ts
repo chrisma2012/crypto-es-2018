@@ -14,7 +14,7 @@ export default defineConfig({
   dts: true,
   
   // Target modern JavaScript environments
-  target: 'node18',
+  target: 'ES2018',
   
   // Platform-specific optimizations
   platform: 'neutral',

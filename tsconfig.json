@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     // Target modern JavaScript
-    "target": "ES2022",
+    "target": "ES2018",
     "module": "ESNext",
     "lib": ["ES2022", "DOM"],
     
